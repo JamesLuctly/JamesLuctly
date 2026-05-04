@@ -1,31 +1,28 @@
-# Hi, I'm James
 
 ## About Me
-I'm a beginner programmer currently learning backend development with Python.
-I enjoy building my understanding step by step and improving my problem-solving skills through practice.
+I'm the Chief Engineer aboard the USS Enterprise-D. I didn't start here I worked my way up from helm control. But engineering is where I belong. I like understanding how things work, not just making them go. Give me a warp core imbalance over a diplomatic dinner any day.
 
-## Currently Learning
-- Go/Python
-- Backend development fundamentals
-- APIs and web development basics
-- Git and GitHub
+## Current Systems
+- Warp drive diagnostics and maintenance
+- Phaser array calibration
+- Sensor array optimization
+- Holodeck programming (don't tell the Captain about that one)
 
-## Goals
-- Build small backend projects
-- Learn how to create REST APIs
-- Improve my coding skills every day
-- Grow into a professional backend developer
+## Mission Objectives
+- Keep this ship running at peak efficiency
+- Solve problems the senior staff throws at me
+- Push beyond standard Starfleet engineering protocols
+- Build solutions that last
 
-## Tech Stack
-- Python
-- GO
-- Git
-- GitHub
-- Markdown
+## Technical Specializations
+- Warp field geometry
+- Dilithium matrix recalibration
+- EPS conduit rerouting
+- VISOR interface modifications
 
-## Projects
-I'm currently working on projects to strengthen my programming fundamentals.
-More repositories will be added here as I continue learning.
+## Engineering Projects
+The Enterprise doesn't stay flight-ready by itself. Every day brings something new—an anomaly, a system failure, something the Romulans left behind. I handle it.
 
 ## Fun Fact
-I believe consistent daily practice is the best way to grow as a developer.
+I believe the answer is always in the data. You just have to look at it right.
+
